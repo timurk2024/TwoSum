@@ -12,7 +12,7 @@ Output: [0,1]
 
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
-(remember that an array starts from 0, so nums[0] would be 2, nums[1] would be 7, num[2] would be 11, and nums[3] would be 15
+(remember that an array starts from 0, so nums[0] would be 2, nums[1] would be 7, num[2] would be 11, and nums[3] would be 15)
 
 
 *Example 2:*
